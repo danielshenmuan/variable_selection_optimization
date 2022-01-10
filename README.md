@@ -1,6 +1,8 @@
 # variable_selection_optimization
 This project explored two ways to solve the problem of variable selection using optimzation with gurobi and LassoCV packages. 
 
+Other contributors: Sahitya Vijayanagar, Brent Hensley, Archit Patel
+
 ## Problem and Objectives
 This project explored two ways to solve the problem of variable selection that minimize an error metric:
 1. Direct Variable Selection through Optimization - Mixed Integer Quadratic Programs
